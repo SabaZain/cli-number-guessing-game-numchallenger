@@ -1,0 +1,22 @@
+{
+  "name": "cli-number-guessing-game-numchallenger",
+  "version": "1.0.2",
+  "description": "in this typescript file we have made cli number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-number-guessing-game-numchallenger": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saba Zain(Roll # 00221864)",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
